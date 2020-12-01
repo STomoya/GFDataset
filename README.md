@@ -65,6 +65,8 @@ The `process.py` can be used to other images (but face detection only works with
 
 ## License
 
+[MIT](https://github.com/STomoya/GFDataset/blob/master/LICENSE)
+
 ## Author
 
 [STomoya](https://github.com/STomoya)
