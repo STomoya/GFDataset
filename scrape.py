@@ -171,6 +171,4 @@ def main():
     print(f'The scraped images are saved at {args.output}')
 
 if __name__ == "__main__":
-    # main()
-    args = get_args()
-    save_image(args)
+    main()
